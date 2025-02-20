@@ -12,4 +12,8 @@ import { AppComponent } from './app.component';
   providers: [],
   bootstrap: [AppComponent]
 })
-export class AppModule { }
+export class AppModule { 
+
+  // dont use server side rendering cause u dont need it now
+
+}
